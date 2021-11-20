@@ -1,14 +1,12 @@
 # B.U.G Backyard Under Guard
 A game for Game Off 2021 about BUGs
 
+Game Design Document: (Here is a detailed idea)[https://docs.google.com/document/d/1e1dXQ6hftQCqdWBFQuZDq7OBffvNvlStj8-DxYr7xWk/edit?usp=sharing] from
 TODO:
 * make the graphics for:
-  * bees
-  * ants
-  * spiders
-  * cockroachs
-  * ladybugs
-  * gardener(The Guard)
+  * Buttons
+  * title-screen
+
 * The game
 * Title Screen
 * Scenario
@@ -18,6 +16,11 @@ TO LEARN
 * the most important of game-dev
 * How to put the audio
 * how implement a state machine for all bugs
+* how to animate a character
 * 
 IMPLEMENTED
-* Nothing... yet
+* Graphics maded:
+   * Bees, ants, spiders, cockroachs and ladybugs
+   * Bruno, the gardener
+   * Tiles for: grass, dirt, beehive, crops, bush
+* 
