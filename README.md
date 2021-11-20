@@ -1,7 +1,7 @@
 # B.U.G Backyard Under Guard
 A game for Game Off 2021 about BUGs
 
-Game Design Document: (Here is a detailed idea)[https://docs.google.com/document/d/1e1dXQ6hftQCqdWBFQuZDq7OBffvNvlStj8-DxYr7xWk/edit?usp=sharing] from
+Game Design Document: [Here is a detailed idea](https://docs.google.com/document/d/1e1dXQ6hftQCqdWBFQuZDq7OBffvNvlStj8-DxYr7xWk/edit?usp=sharing) from Game Development Using Python and Pygame - James R. Parker
 TODO:
 * make the graphics for:
   * Buttons
