@@ -4,7 +4,12 @@
 Game Design Document: [Here](https://docs.google.com/document/d/1e1dXQ6hftQCqdWBFQuZDq7OBffvNvlStj8-DxYr7xWk/edit?usp=sharing) is a detailed idea for my game. Template from Game Development Using Python and Pygame - James R. Parker
 
 ---
+This is my game for Game Off 2021. Not all my ideas are completed
 
+
+
+
+ignore the next lines xd....
 TODO:
 ---
 * make the graphics for:
